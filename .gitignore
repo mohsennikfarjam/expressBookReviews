@@ -1,4 +1,11 @@
 # Distribution / packaging
-node_modules
+node_modules/
+*.txt
+*.json
+*.ps1
+.DS_Store
+!package.json
+!package-lock.json
+!booksdb.js
 
 
